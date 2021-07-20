@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning Swift
 - 💬 Ask me about iOS development
 - 📫 How to reach me: alex_zhangfan@hotmail.com
-- ⚡ Fun fact: 😎 Food, Coding 
+- ⚡ Fun fact: 😎 Yummy food, Coding 
