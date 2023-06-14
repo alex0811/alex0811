@@ -1,1 +1,7 @@
-### Hi there 👋
+# Hi 👋
+
+- 👨🏻‍💻 目前主攻 Swift & Objective-C 开发
+- 📱 iOS 应用开发者
+- 🛠 会一点 Ruby / Python / Vue
+- 🍔 美食 & 观光爱好者
+
